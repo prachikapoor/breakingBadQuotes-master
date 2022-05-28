@@ -1,0 +1,8 @@
+.buttons {
+  margin-top: 50vh;
+}
+@media only screen and (max-width: 600px) {
+  .buttons {
+    margin-top: 10vh;
+  }
+}
